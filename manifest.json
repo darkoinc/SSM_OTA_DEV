@@ -1,6 +1,5 @@
 {
-  "elmmo": "9.1.0",
   "vession": "3.1.0",
-  "url": "https://github.com/arkoinc/SSM_OTA_DEV/releases/download/v3.1.0/firmware_SSM_3.1.0.bin",
-  "sha256": "013dbeb517752b0a00009b968b875784bfa63038499970f8722e49e97c00b305"
+  "url": "https://github.com/darkoinc/SSM_OTA_DEV/releases/download/v3.1.0/firmware_SSM_3.1.0.bin",
+  "sha256": "013dbeb517752b0a34219b968b875784bfa63038499970f8722e49e97c00b305"
 }
