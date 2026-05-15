@@ -1,5 +1,5 @@
 {
-  "version": "3.9.99",
-  "url": "https://github.com/darkoinc/SSM_OTA_DEV/releases/download/v4.0.0_RC2/firmware_SSM_4.0.0_RC2.bin",
-  "sha256": "2a8f41235afdba2dce603c5c1616ef70b846820b4cf762f7801ad4f122ca4997"
+  "version": "3.9.999",
+  "url": "https://github.com/darkoinc/SSM_OTA_DEV/releases/download/v4.0.0_RC3/firmware_SSM_4.0.0_RC3.bin",
+  "sha256": "ffbdbe6784d1b1e215a38a5d60ad5abae9c354f7f1aefbdca3670dc38a12fe5c"
 }
