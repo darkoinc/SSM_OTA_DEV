@@ -1,6 +1,6 @@
 {
-  "version": "5.0.0",
+  "version": "5.0.1",
   "compatibleHardwareVersion": "3.0.0",
-  "url": "https://github.com/darkoinc/SSM_OTA_DEV/releases/download/v5.0.0_DEV/frimware_SSM_5.0.0.bin",
-  "sha256": "f68d93e0410150dcfd07b6e0a56155a317eb1a8467938f65cf09653aad8b1376"
+  "url": "https://github.com/darkoinc/SSM_OTA_DEV/releases/download/v5.0.1_DEV/fimrware_SSM_v5.0.1_RC.bin",
+  "sha256": "b9ac751720f55879a00c565774de344d82f82701ab8a0651c3cf9600cdce9b75"
 }
